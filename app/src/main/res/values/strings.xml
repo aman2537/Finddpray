@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Findpray</string>
+    <string name="login_title">Findpray</string>
+    <string name="username_title">Username</string>
+    <string name="password_title">Password</string>
+    <string name="password_confirm_title">Confirm Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="register">New User? Register here</string>
+    <string name="login_error_message">Username or Password is incorrect.</string>
+    <string name="register_error_message">Register failed, Try again!</string>
+    <string name="register_password_error">Password does not match</string>
+    <string name="register_success">Register Successful</string>
+    <string name="welcome_message">Welcome to Findpray</string>
+    <string name="button_search">Search</string>
+    <string name="btsearchmap">Search</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="change_password">Chang_password</string>
+    <string name="welcome_error_message">error_message</string>
+    <string name="change_password_message">change_password_message</string>
+    <string name="namez">Username</string>
+    <string name="newpassword">newpassword</string>
+
+
+</resources>
